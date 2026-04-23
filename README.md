@@ -1,6 +1,6 @@
 # Independent Restaurants Experiencing a 30%+ Crash in Foot Traffic & Sentiment This Quarter in Oregon
 
-> Free BeamStation sample export with 61 rows and masked direct-contact fields.
+> Free BeamStation sample export with 66 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `932876` |
 | Location | Oregon |
 | Category | Food and Drink |
-| Full dataset size | 618 records |
-| Free sample size | 61 records (9.87%) |
-| Last export | 2026-04-16T22:28:23.844385+00:00 |
+| Full dataset size | 663 records |
+| Free sample size | 66 records (9.95%) |
+| Last export | 2026-04-23T17:20:01.037911+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/independent-restaurants-experiencing-a-30-crash-in-foot-traffic-sentiment-this-qua-sample-932876/releases/download/sample-latest/beamstation_932876_food_and_drink-us-or_SAMPLE_DIST.csv) |
 
 ## What is in this sample
